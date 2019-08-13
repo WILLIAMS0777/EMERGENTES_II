@@ -33,6 +33,7 @@
 *-Google: Mas publicidad y mejorar su entorno para no tener competencia*
 
 *-Toshiba: Hacer mas publicidad en venta de computadoras*
+
 ####4) Explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical
 *Escalabilidad Vertical:*
 *El escalar hacia arriba un sistema viene a significar una migración de todo el sistema a un nuevo hardware que es mas potente y eficaz que el actual.*
