@@ -1,5 +1,5 @@
 # EMERGENTES II #
-####1)  Explique que son los sistemas empresariales
+1)  Explique que son los sistemas empresariales
 *es un sistema de información integral que incorpora los procesos operativos y de negocio de una empresa, por ejemplo: producción, ventas, compras, logística, contabilidad (de varios tipos), gestión de proyectos, inventarios y control de almacenes, pedidos, nóminas, etc.*
 ####2)  Describa cuales son las características más importantes de una aplicación empresarial 
 *Disponibilidad
