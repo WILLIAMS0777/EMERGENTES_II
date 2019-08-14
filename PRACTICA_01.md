@@ -104,7 +104,7 @@ http://2.bp.blogspot.com/-Dnnoqh4KDs0/U9-sS6K_faI/AAAAAAAAAOc/s2FPr6g30o8/s1600/
 *Apache OpenEJB via Apache Geronimo*
 #### 11) Investigue los métodos más utilizados de las clases HttpServlet, HttpServletRequest y HttpServletResponse, y para cada uno de los métodos muestre un ejemplo.
 ###### La clase HttpServlet: 
-*es una clase que implementa la interfaz Servlet, incorporando además métodos específicos para servidores Web. Un uso típico de HttpServlet es el procesamiento de formularios html.
+*es una clase que implementa la interfaz Servlet, incorporando además métodos específicos para servidores Web. Un uso típico de HttpServlet es el procesamiento de formularios html.*
 
 *Ejemplo*
 
@@ -146,7 +146,7 @@ protected void doGet(HttpServletRequest request, HttpServletResponse response) t
 *El método getWriter devuelve un Writer*
 
 *El método getOutputStream devuelve un ServletOutputStream*
-*Se utiliza el método getWriter para devolver datos en formato texto al usuario y el método getOutputStream para devolver datos binarios.
+*Se utiliza el método getWriter para devolver datos en formato texto al usuario y el método getOutputStream para devolver datos binarios.*
 
 *Ejemplo*
 
