@@ -1,7 +1,3 @@
-\begin{center}
-Text
-\end{center}
-
 # EMERGENTES II #
 
 # UNIVERSITARIO: Wily Abraham Quispe Quispe #       
