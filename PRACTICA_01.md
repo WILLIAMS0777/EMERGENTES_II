@@ -2,7 +2,7 @@
 1)  Explique que son los sistemas empresariales
 *es un sistema de información integral que incorpora los procesos operativos y de negocio de una empresa, por ejemplo: producción, ventas, compras, logística, contabilidad (de varios tipos), gestión de proyectos, inventarios y control de almacenes, pedidos, nóminas, etc.*
 
-# 2) Describa cuales son las características más importantes de una aplicación empresarial
+#### 2) Describa cuales son las características más importantes de una aplicación empresarial
 
 *Disponibilidad
 
@@ -25,7 +25,7 @@
 *Seguridad 
 
 *valides
-####3) Investigue y proponga cinco (5) instituciones que requerirían aplicaciones de misión crítica. Justifique su respuesta 
+#### 3) Investigue y proponga cinco (5) instituciones que requerirían aplicaciones de misión crítica. Justifique su respuesta 
 *-Windows: Codigo Abierto*
 
 *-Huawei: Propio Sistema Operativo no depender de Google*
@@ -36,31 +36,31 @@
 
 *-Toshiba: Hacer mas publicidad en venta de computadoras*
 
-####4) Explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical
+#### 4) Explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical
 *Escalabilidad Vertical:*
 *El escalar hacia arriba un sistema viene a significar una migración de todo el sistema a un nuevo hardware que es mas potente y eficaz que el actual.*
 
 *Escalabilidad Horizontal:*
 *La escalabilidad horizontal consiste en potenciar el rendimiento del sistema desde un aspecto de mejora global, a diferencia de aumentar la potencia de una única parte del mismo.* 
-####5) Que es un servidor Web y que es un servidor de aplicaciones 
+#### 5) Que es un servidor Web y que es un servidor de aplicaciones 
 *Servidor web:*
 *Un servidor web o servidor HTTP es un programa informático que procesa una aplicación del lado del servidor, realizando conexiones bidireccionales o unidireccionales y síncronas o asíncronas con el cliente y generando o cediendo una respuesta en cualquier lenguaje o Aplicación del lado del cliente.*
 
 *Servidor de aplicaciones:*
 *Usualmente se trata de un dispositivo de software que proporciona servicios de aplicación a las computadoras cliente. Un servidor de aplicaciones generalmente gestiona la mayor parte (o la totalidad) de las funciones de lógica de negociación y de acceso a los datos de las aplicaciones.*
-####6) Con un gráfico explique cómo funciona el protocolo HTTP 
+#### 6) Con un gráfico explique cómo funciona el protocolo HTTP 
 https://image.slidesharecdn.com/presentacionhttp-https-dns-140922001131-phpapp02/95/presentacion-httphttpsdns-4-638.jpg?cb=1411345623
-####7) Explique los elementos importantes de REQUEST en HTTP 
+#### 7) Explique los elementos importantes de REQUEST en HTTP 
 *En inglés, request significa pedir, solicitar. En efecto, la acción de escribir una dirección cualquiera en la línea de URL de tu navegador, se traduce en solicitar un determinado fichero a un servidor, o dicho en la jerga técnica, se le hace un request al servidor.* 
 
 *El protocolo que utiliza el navegador (por defecto salvo que se indique otro, como el FTP) para dialogar con un servidor web es el llamado HTTP, que como habrás visto figura al principio de todas las direcciones web. No es necesario escribir el protocolo en los navegadores modernos, simplemente escribimos la dirección de la página solicitada, y el navegador añade delante de la misma su protocolo por defecto.*
-####8) Explique los elementos importantes de RESPONSE en HTTP
+#### 8) Explique los elementos importantes de RESPONSE en HTTP
 *Igual que el navegador envía información al servidor, también en la respuesta se envían datos en la cabecera como el Content-Type que indica el tipo de contenido que se envía, si la respuesta está comprimida o el tipo de codificación que usa. También se indica que tipo de servidor sirve los contenidos e incluso el sistema operativo. Por razones de seguridad estos datos se pueden omitir o incluso falsear.*
 
 *En Chrome, en las herramientas de programación(F12), en la pestaña NETWORK -> headers -> bajamos hasta ver la sección response-headers, aquí están todos los datos que envía el servidor* 
-####9) Describa con un gráfico la arquitectura Java EE 
+#### 9) Describa con un gráfico la arquitectura Java EE 
 http://2.bp.blogspot.com/-Dnnoqh4KDs0/U9-sS6K_faI/AAAAAAAAAOc/s2FPr6g30o8/s1600/Captura.PNG
-####10) Explique cuáles son los contenedores, componentes y servicios de Java EE
+#### 10) Explique cuáles son los contenedores, componentes y servicios de Java EE
 ######Contenedores JAVA EE
 *Java EE Server: La porción de tiempo de ejecución de un producto Java EE. provee los contenedores web y de ejb.*
 
