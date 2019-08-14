@@ -1,5 +1,8 @@
-# UNIVERSITARIO: Wily Abraham Quispe Quispe        C.I.: 9254480 #
 # EMERGENTES II #
+
+# UNIVERSITARIO: Wily Abraham Quispe Quispe #       
+# C.I.: 9254480 #
+
 ## 1)  Explique que son los sistemas empresariales
 *es un sistema de información integral que incorpora los procesos operativos y de negocio de una empresa, por ejemplo: producción, ventas, compras, logística, contabilidad (de varios tipos), gestión de proyectos, inventarios y control de almacenes, pedidos, nóminas, etc.*
 
