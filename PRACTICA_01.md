@@ -61,7 +61,7 @@ https://image.slidesharecdn.com/presentacionhttp-https-dns-140922001131-phpapp02
 #### 9) Describa con un gráfico la arquitectura Java EE 
 http://2.bp.blogspot.com/-Dnnoqh4KDs0/U9-sS6K_faI/AAAAAAAAAOc/s2FPr6g30o8/s1600/Captura.PNG
 #### 10) Explique cuáles son los contenedores, componentes y servicios de Java EE
-######Contenedores JAVA EE
+###### Contenedores JAVA EE
 *Java EE Server: La porción de tiempo de ejecución de un producto Java EE. provee los contenedores web y de ejb.*
 
 *Contenedor EJB: Maneja la ejecución de los enterprise beans.*
@@ -71,7 +71,7 @@ http://2.bp.blogspot.com/-Dnnoqh4KDs0/U9-sS6K_faI/AAAAAAAAAOc/s2FPr6g30o8/s1600/
 *Contenedor de aplicación cliente: Maneja la ejecución de la aplicación cliente no necesita un servidor de aplicaciones.*
 
 *Contenedor Applet: Maneja la ejecución de applets, no necesita servidor de aplicaciones, consiste en un browser y el plugin web de java.*
-######Componentes JAVA EE
+###### Componentes JAVA EE
 *Capa CLiente: Navegador (HTML APPLET), Desktop (Aplicacion Java), Otros Dispositovos (Cliente JEE)*
 
 *Capa Web: Contenedor Web (JavaServer Fases), (JSP/Facelets), (Java Servlent), (Plataforma Java EE),*
@@ -80,7 +80,7 @@ http://2.bp.blogspot.com/-Dnnoqh4KDs0/U9-sS6K_faI/AAAAAAAAAOc/s2FPr6g30o8/s1600/
 
 *Capa de Datos: (RBDMS), (Sistemas Legrados), (ERP)*
 
-######Servicios JAVA EE
+###### Servicios JAVA EE
 *JOnAS, un servidor de aplicaciones de código abierto de ObjectWeb*
 
 *JBoss, desarrollado inicialmente por JBoss Inc y adquirido posteriormente por Red Hat. Existe una versión de código abierto soportada por la comunidad y otra empresarial.*
@@ -102,8 +102,8 @@ http://2.bp.blogspot.com/-Dnnoqh4KDs0/U9-sS6K_faI/AAAAAAAAAOc/s2FPr6g30o8/s1600/
 *GlassFish, un servidor de aplicaciones de código abierto de Sun*
 
 *Apache OpenEJB via Apache Geronimo*
-####11) Investigue los métodos más utilizados de las clases HttpServlet, HttpServletRequest y HttpServletResponse, y para cada uno de los métodos muestre un ejemplo.
-######La clase HttpServlet: 
+#### 11) Investigue los métodos más utilizados de las clases HttpServlet, HttpServletRequest y HttpServletResponse, y para cada uno de los métodos muestre un ejemplo.
+###### La clase HttpServlet: 
 *es una clase que implementa la interfaz Servlet, incorporando además métodos específicos para servidores Web. Un uso típico de HttpServlet es el procesamiento de formularios html.
 
 *Ejemplo*
@@ -131,7 +131,7 @@ public class HolaMundo extends HttpServlet {
     out.println("</html>");
   }
 }
-######Un objeto HttpServletRequist:
+###### Un objeto HttpServletRequist:
 *Método que nos devuelve una referencia a la sesión HttpSession asociada a la petición actual.*
 
 *Ejemplo*
@@ -140,7 +140,7 @@ protected void doGet(HttpServletRequest request, HttpServletResponse response) t
    HttpSession session = request.getSession();
    session.setMaxInactiveInterval(20*60);       
 }
-######Un objeto HttpServletResponse:
+###### Un objeto HttpServletResponse:
 *Proporciona dos formas de devolver datos al usuario.*
 
 *El método getWriter devuelve un Writer*
